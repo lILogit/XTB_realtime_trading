@@ -1,5 +1,5 @@
 pytz~=2024.1
-python-dateutil~=2.9.0post0
+python-dateutil~=2.8.2
 numpy~=1.26.4
 pandas~=2.2.1
 loguru~=0.5.3
@@ -7,3 +7,5 @@ matplotlib~=3.8.4
 seaborn~=0.12.2
 holidays~=0.29
 websocket-client~=0.58.0
+PyQt5~=5.15.10
+setuptools~=69.5.1
