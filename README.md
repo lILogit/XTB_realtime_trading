@@ -1,4 +1,4 @@
-This program is the backbone for univesal online trading on the XTB platform using the API. The loop is waiting for the tick price change and based on the given strategy places orders (ENTER, SL, TP, EXIT).
+This program is the backbone for universal online trading on the XTB platform using the API. The loop is waiting for the tick price change and based on the given strategy places orders (ENTER, SL, TP, EXIT).
 
 1. XTB credentials
   modify /utils/secrets.py 
