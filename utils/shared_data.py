@@ -1,0 +1,3 @@
+SYMBOL = 'USDJPY'
+PIP_VALUE = 4.77
+
